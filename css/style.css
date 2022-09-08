@@ -1,0 +1,91 @@
+.nav{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.nav2{
+    margin-top: 10px;
+    background-color: white;
+  
+}
+.logo{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+    position: absolute;
+    left: 50px;
+}
+.search{
+    position: absolute;
+    right: 50px;
+}
+.row1 {
+    margin-top: 15px;
+    display: flex;
+  }
+  
+  .column1 {
+    flex: 50%;
+    padding: 0px;
+  }
+  .row2 {
+   
+    display: flex;
+  }
+  
+  .column2 {
+    flex: 33.3%;
+    padding: 50px;
+    text-align: center;
+  }
+  .row3 {
+   
+    display: flex;
+  }
+  
+  .column3 {
+    flex: 25%;
+    padding: 50px;
+    text-align: center;
+  }
+  .women {
+    color: rgb(243, 202, 202);
+    font-weight: bold;
+    font-size: 80px;
+    position: absolute;
+    top: 68%;
+    left: 12%;
+    width: 300px;
+    padding: 20px; 
+  }
+  .men{
+    color: rgb(243, 202, 202);
+    font-weight: bold;
+    font-size: 80px;
+    position: absolute;
+    top: 68%;
+    right: 12%;
+    width: 300px;
+    padding: 20px; 
+  }
+  .shop1{
+    border: 2px solid white;
+    width: min-content;
+    padding: 10px;
+    margin: auto;
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    color: white;
+}
+.shop2{
+    border: 2px solid white;
+    width: min-content;
+    padding: 10px;
+    margin: auto;
+    position: absolute;
+    top: 90%;
+    right: 20%;
+    color: white;
+}
